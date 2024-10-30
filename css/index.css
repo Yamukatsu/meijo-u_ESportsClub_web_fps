@@ -24,7 +24,7 @@ nav.floating {
 
 .first-view {
     height: calc(100vh - 110px);
-    background-image: url(../images/index/index_main.jpg);
+    background-image: url(../images/index/index_main_fps.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -220,7 +220,7 @@ img {
 
     .first-view {
         height: calc(100vh - 110px);
-        background-image: url(../images/index/index_main.jpg);
+        background-image: url(../images/index/index_main_fps.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
